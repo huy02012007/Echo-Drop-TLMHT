@@ -29,16 +29,35 @@ Dự án được tối ưu để chạy ngay lập tức mà không cần cài 
 
 ## 🚀 Hướng dẫn cài đặt & Chạy game
 
-**Bước 1:** Tải mã nguồn về máy hoặc Clone repository này.
+Bạn có thể chọn 1 trong 2 cách dưới đây để trải nghiệm game:
 
-**Bước 2:** Mở Terminal (hoặc CMD) tại thư mục chứa game.
+### Cách 1: Chạy file Game trực tiếp (Khuyên dùng)
+Đây là cách nhanh nhất, không cần cài đặt Python.
 
-**Bước 3:** Chạy lệnh sau:
+1.  Truy cập mục **Releases** ở bên phải giao diện GitHub (hoặc kéo xuống dưới).
+2.  Tải file nén `.zip` (hoặc `.exe`) của phiên bản mới nhất về máy.
+3.  **Quan trọng:** Giải nén toàn bộ thư mục ra (nếu là file zip).
+4.  Chạy file `Echo.Drop.exe` để chơi ngay!
+
+---
+
+### Cách 2: Chạy bằng Mã nguồn (Source Code)
+Dành cho việc tham khảo code hoặc phát triển thêm.
+
+**1. Yêu cầu:**
+* Máy tính đã cài **Python 3.x**.
+* Thư viện: Sử dụng thư viện chuẩn (`turtle`, `random`, `time`) nên **KHÔNG cần cài thêm gì cả** (No pip install required).
+
+**2. Các bước thực hiện:**
+
+* **Bước 1:** Tải mã nguồn về và giải nén.
+* **Bước 2:** Mở thư mục chứa file `main.py`.
+* **Bước 3:** Tại thanh địa chỉ thư mục, gõ `cmd` và nhấn Enter để mở Terminal.
+* **Bước 4:** Gõ lệnh sau để chạy:
 
 ```bash
 python main.py
 ```
-
 
 
 ## 🕹️ Hướng dẫn điều khiển
