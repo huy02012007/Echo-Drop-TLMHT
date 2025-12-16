@@ -44,12 +44,6 @@ Bạn có thể chọn 1 trong 2 cách dưới đây để trải nghiệm game:
 ### Cách 2: Chạy bằng Mã nguồn (Source Code)
 Dành cho việc tham khảo code hoặc phát triển thêm.
 
-**1. Yêu cầu:**
-* Máy tính đã cài **Python 3.x**.
-* Thư viện: Sử dụng thư viện chuẩn (`turtle`, `random`, `time`) nên **KHÔNG cần cài thêm gì cả** (No pip install required).
-
-**2. Các bước thực hiện:**
-
 * **Bước 1:** Tải mã nguồn về và giải nén.
 * **Bước 2:** Mở thư mục chứa file `main.py`.
 * **Bước 3:** Tại thanh địa chỉ thư mục, gõ `cmd` và nhấn Enter để mở Terminal.
